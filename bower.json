@@ -1,0 +1,30 @@
+{
+  "name": "disinfector",
+  "description": "Pretty short CSS reset",
+  "main": "index.css",
+  "authors": [
+    "Azat S. <to@azat.io> (http://azat.io)"
+  ],
+  "homepage": "https://github.com/azat-io/disinfector",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "stylus",
+    "postcss",
+    "normalize",
+    "reset",
+    "sanitize"
+  ],
+  "ignore": [
+    "node_modules",
+    ".editorconfig",
+    ".gitignore",
+    ".npmignore",
+    ".stylelintrc",
+    ".travis.yml",
+    "package.json"
+  ]
+}

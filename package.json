@@ -1,0 +1,16 @@
+{
+  "name": "disinfector",
+  "version": "1.0.0",
+  "description": "Pretty short CSS reset",
+  "main": "index.css",
+  "repository": "git@github.com:azat-io/disinfector.git",
+  "author": "Azat S. <to@azat.io>",
+  "license": "MIT",
+  "scripts": {
+    "test": "stylelint \"./index.css\""
+  },
+  "devDependencies": {
+    "stylelint": "^7.9.0",
+    "stylelint-config-standard": "^16.0.0"
+  }
+}

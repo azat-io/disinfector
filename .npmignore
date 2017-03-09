@@ -1,0 +1,14 @@
+# Node.js / NPM
+node_modules
+npm-debug.log
+
+# Yarn
+yarn-error.log
+
+# Configuration files
+.editorconfig
+.gitignore
+.stylelintrc
+.travis.yml
+bower.json
+yarn.lock
